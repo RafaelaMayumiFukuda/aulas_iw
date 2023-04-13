@@ -1,0 +1,21 @@
+p{
+    color: lightgreen;
+}
+
+.um{
+    color: lightblue;
+}
+
+.dois{
+    color:palegreen;
+}
+
+#titulo{
+    color: rebeccapurple;
+    border: 2px solid lightseagreen;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+}
