@@ -1,0 +1,21 @@
+header{
+    background-color: lightpink;
+}
+
+.banner{
+    width: 100%;
+}
+
+.conteiner{
+
+    width: 80%;
+    background-color: lightpink;
+    margin: auto;
+}
+
+footer{
+
+    background-color: cornflowerblue;
+    width: 100%;
+
+}
